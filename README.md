@@ -7,7 +7,7 @@ I love looking at new technologies and I'm open to learning new technologies!
   
 ## Languages I love
 Here are the coding Libraries I've learnt and have used or am currently using daily:
--  PHP (Twig, Composer)
+- PHP (Twig, Composer)
 - JavaScript (ReactJS, React Native, jQuery, NextJS, NodeJS, npm)
 - CSS (SaSS, LeSS, BEM)
 - Other (HTML, Markdown, JSON, XML, YAML, Bootstrap)
