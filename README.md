@@ -18,8 +18,7 @@ Coding libraries I'm learning ouside of work:
 - Java
 
 ## Studies
-I am currently studying my Bachelors in Computing & IT taking modules which specialise in computer science, website development, cyber security and AI. 
-
+I am currently studying my Bachelors part-time in Computing & IT taking modules which specialise in computer science, website development, cyber security and AI. 
 
 ## How to reach me 
 You can reach me directly through GitHub or my LinkedIn
