@@ -5,7 +5,7 @@ I create bespoke CMS experiences for my clients using platforms such as Drupal, 
 
 I love looking at new technologies and I'm open to learning new technologies!
   
-## Languages I love
+## ❤️‍🔥 Languages I love
 Here are the coding Libraries I've learnt and have used or am currently using daily:
 - PHP (Twig, Composer)
 - JavaScript (ReactJS, React Native, jQuery, NextJS, NodeJS, npm)
@@ -17,10 +17,10 @@ Coding libraries I'm learning ouside of work:
 - C++
 - Java
 
-## Studies
+## 📖 Studies
 I am currently studying my Bachelors part-time in Computing & IT taking modules which specialise in computer science, website development, cyber security and AI. 
 
-## How to reach me 
+## 💻 How to reach me 
 You can reach me directly through GitHub or my LinkedIn
 
 <!---
