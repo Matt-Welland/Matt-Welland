@@ -17,6 +17,8 @@ Coding libraries I'm learning ouside of work:
 - C++
 - Java
 
+![My codewars badge](https://www.codewars.com/users/Matt-Welland/badges/large)
+
 ## 📖 Studies
 I am currently studying my Bachelors part-time in Computing & IT taking modules which specialise in computer science, website development, cyber security and AI. 
 
