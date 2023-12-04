@@ -9,7 +9,7 @@ I love looking at new technologies and I'm open to learning new technologies!
 Here are the coding Libraries I've learnt and have used or am currently using daily:
 - PHP (Which also includes: Twig, Composer)
 - JavaScript (Which also includes: Vanilla, ReactJS, jQuery, NodeJS, npm)
-- CSS (Sass, Less, BEM Naming Convension)
+- CSS (Which also includes: Sass, Less, BEM Naming Convension)
 - SQL+NoSQL (Which also includes: PhpMyAdmin, MongoDB)
 - Other (HTML, Markdown, JSON, XML, YAML, Bootstrap)
 
