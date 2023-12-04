@@ -22,7 +22,7 @@ What I'm learning in my freetime:
 - Java
 
 ## 📖 Studies
-I am currently studying my Bachelors part-time in Computing & IT taking modules which specialise in computer science, website development, cyber security and AI. 
+I am currently studying my Bachelors part-time in Computing & IT taking modules which specialise in computer science, cyber security and AI. I'm studying whilst employed for my own benefit to further my knowledge in the sector. 
 
 ## 💻 How to reach me 
 You can reach me directly through GitHub or my LinkedIn
