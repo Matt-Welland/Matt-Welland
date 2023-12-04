@@ -7,14 +7,16 @@ I love looking at new technologies and I'm open to learning new technologies!
   
 ## ❤️‍🔥 Languages I love
 Here are the coding Libraries I've learnt and have used or am currently using daily:
-- PHP (Twig, Composer)
-- JavaScript (ReactJS, React Native, jQuery, NextJS, NodeJS, npm)
-- CSS (SaSS, LeSS, BEM)
+- PHP (Which also includes: Twig, Composer)
+- JavaScript (Which also includes: Vanilla, ReactJS, jQuery, NodeJS, npm)
+- CSS (Sass, Less, BEM Naming Convension)
+- SQL+NoSQL (Which also includes: PhpMyAdmin, MongoDB)
 - Other (HTML, Markdown, JSON, XML, YAML, Bootstrap)
 
-Coding libraries I'm learning ouside of work:
+What I'm learning in my freetime:
+- Laravel PHP Framework
 - Python
-- C++
+- C++ and Blueprint (UE5)
 - Java
 
 ![My codewars badge](https://www.codewars.com/users/Matt-Welland/badges/large)
