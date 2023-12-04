@@ -1,12 +1,13 @@
 # 👋 Hi, I’m @Matt-Welland
-I develop using industry standard coding languages including PHP, React, JavaScript and SaSS just to scratch the surface. 
+I'm a full-stack developer proficient in industry-standard programming languages, including PHP JavaScript, and Sass. 
 
-I create bespoke CMS experiences for my clients using platforms such as Drupal, Wordpress & WooCommerce. 
+My expertise lies in crafting customized CMS experiences for clients, utilizing platforms such as Drupal, WordPress, and WooCommerce. 
 
-I love looking at new technologies and I'm open to learning new technologies!
+I have a passion for exploring emerging technologies and am enthusiastic about continually expanding my skill set.
   
 ## ❤️‍🔥 Languages I love
 Here are the coding Libraries I've learnt and have used or am currently using daily:
+
 - PHP (Which also includes: Twig, Composer)
 - JavaScript (Which also includes: Vanilla, ReactJS, jQuery, NodeJS, npm)
 - CSS (Which also includes: Sass, Less, BEM Naming Convension)
@@ -14,18 +15,19 @@ Here are the coding Libraries I've learnt and have used or am currently using da
 - Other (HTML, Markdown, JSON, XML, YAML, Bootstrap)
 
 What I'm learning in my freetime:
+
 - Laravel PHP Framework
 - Python
 - C++ and Blueprint (UE5)
 - Java
-
-![My codewars badge](https://www.codewars.com/users/Matt-Welland/badges/large)
 
 ## 📖 Studies
 I am currently studying my Bachelors part-time in Computing & IT taking modules which specialise in computer science, website development, cyber security and AI. 
 
 ## 💻 How to reach me 
 You can reach me directly through GitHub or my LinkedIn
+
+![My codewars badge](https://www.codewars.com/users/Matt-Welland/badges/large)
 
 <!---
 Matt-Welland/Matt-Welland is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
